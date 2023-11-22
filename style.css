@@ -7,7 +7,7 @@ body {
      padding:10px;
      font-size: 30px;
      text-align: center;
-     font-family: Garamond;
+     font-family: 'Courier New', Courier, monospace;
 }
 .imagem {
     width: 16em;
