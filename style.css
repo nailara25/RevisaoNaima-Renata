@@ -1,11 +1,10 @@
 body {
-    width:850px; 
     margin:0 auto; 
-     text-align: center;
-     font-family: Garamond;
-     background-color: #c5c5c4;
-
+    text-align: center;
+    background-color: #c5c5c4;
+    font-family: 'Nanum Gothic', sans-serif;
 }
+
 .header { 
     background-color: #c5c5c4;
 	padding: 10px;
