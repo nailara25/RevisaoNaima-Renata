@@ -17,6 +17,7 @@ body {
     width: 400px;
     margin:auto;
     display: block;
+    border-radius: 10px;
 }
 
 .paragrafo{
