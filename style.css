@@ -2,7 +2,13 @@ body {
     width:300px; 
     margin:0 auto; 
     display:block ; 
+    border-radius:3px;
      margin-top:20px; 
      padding:10px;
      font-size: 30px;
+}
+.imagem {
+    width: 16em;
+    height: 12em;
+    margin-right: 1em;
 }
