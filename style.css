@@ -3,6 +3,8 @@ body {
     text-align: center;
     background-color: #c5c5c4;
     font-family: 'Nanum Gothic', sans-serif;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 .header { 
