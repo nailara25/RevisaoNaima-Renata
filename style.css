@@ -1,7 +1,6 @@
 body {
     width:850px; 
     margin:0 auto; 
-    display:center ; 
      text-align: center;
      font-family: Garamond;
      background-color: #c5c5c4;
@@ -9,8 +8,8 @@ body {
 }
 .imagem {
     width: 16em;
-    height: 12em;
-    margin-right: 1em;
+    margin:auto;
+    display: block;
 }
 
 .header { 
