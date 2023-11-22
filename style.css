@@ -7,7 +7,7 @@ body {
      padding:10px;
      font-size: 30px;
      text-align: center;
-     font: arial;
+     font-family: arial;
 }
 .imagem {
     width: 16em;
