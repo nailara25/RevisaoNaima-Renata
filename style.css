@@ -6,11 +6,13 @@ body {
      font-family: Garamond;
 }
 .imagem {
-    width: 300px;
+    width: 16em;
+    height: 12em;
     margin-right: 1em;
 }
 
 .header { 
     background-color: #c5c5c4;
+	background-color: #c5c5c4;
 	padding: 10px;
 }
