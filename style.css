@@ -1,0 +1,9 @@
+body {
+    width:1000px; 
+    margin:0 auto; 
+    display: center; 
+    border-radius:3px;
+     margin-top:20px; 
+     padding:10px;
+     font-size: 27px;
+}
