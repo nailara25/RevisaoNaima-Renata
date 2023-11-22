@@ -12,20 +12,8 @@ body {
     height: 12em;
     margin-right: 1em;
 }
-.parteum {
-    background: ;
-}
 
-.titulo {
-    font-size: 50px;
-    color: rgb(0, 0, 0);
-    text-align: center;
-    background-color: rgb(223, 211, 211);
-}
-
-.subtitulo {
-    font-size: 30px;
-    color: rgb(0, 0, 0);
-    text-align: justify;
-
+.header { background-color: #f5f1ea;
+	background-color: #f5f1ea;
+	padding: 10px;
 }
