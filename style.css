@@ -19,3 +19,14 @@ body {
     display: block;
 }
 
+.paragrafo{
+    text-align: center;
+    font-family: Helvetica;
+}
+
+p{
+    padding-left: 20px;
+    padding-right: 25px;
+    line-height: 1.5;
+    font-family: Calibri;
+}
